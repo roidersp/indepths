@@ -1,4 +1,3 @@
-console.log("test2");
 
 $("#indepths_container").waypoint(function(direction){
 	console.log(direction);
